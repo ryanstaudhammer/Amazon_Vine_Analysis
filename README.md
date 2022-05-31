@@ -9,6 +9,6 @@ There is a portion of paid reviews called Vines in Amazon Reviews. We were able 
 - The number of 5 star Non-Vine reviews was: 913,077. 
 - The percent of 5 star Vine reviews was: 46.3%. 
 - The percent of 5 star Non-Vine reviews was: 56.4%. 
-![]()
+![](https://github.com/ryanstaudhammer/Amazon_Vine_Analysis/blob/main/Images/Reviews.png)
 ## Summary
 The number of paid 5 star Vine reviews was not higher than just regular reviews.
